@@ -1,4 +1,4 @@
-# HR Analytics Dashboard 📊
+ # HR Analytics Dashboard 📊
 
 Welcome to the **HR Analytics Dashboard** repository! This end-to-end project showcases an interactive Power BI dashboard that visualizes and analyzes HR metrics, empowering organizations to uncover workforce insights and drive data-driven decisions.
 
